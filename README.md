@@ -206,4 +206,4 @@ An example app is available in the `example/` folder of this repository. To run 
 
 ## License
 
-MIT License. See `LICENSE` for more information.
+This project is licensed under the terms of the [MIT License](./LICENSE).
